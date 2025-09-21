@@ -17,4 +17,4 @@ A responsive and modern landing page for showcasing **MIR4 Character NFTs**, bui
 ## 🚀 Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/mir4-nft-landing.git
+   git clone https://github.com/zceptree/mir4-nft-landing.git
