@@ -14,7 +14,3 @@ A responsive and modern landing page for showcasing **MIR4 Character NFTs**, bui
 - **CSS3 & Bootstrap 5** – styling and responsiveness  
 - **JavaScript (Bootstrap scripts)** – interactivity  
 
-## 🚀 Installation & Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/zceptree/mir4-nft-landing.git
